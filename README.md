@@ -1,5 +1,5 @@
 # Pacman-Plus
-A recreation of and updated version of the classic game Pac-Man in PyGame. Includes Greedy Best-First Search for the classic ghosts, as well as A* search, Dijkstra's algorithm and limited Depth-First Search for the new ghosts.
+A recreation of Pac-Man including new AI solutions for the ghosts. Includes Greedy Best-First Search for the classic ghosts, as well as A* search, Dijkstra's algorithm and limited Depth-First Search for the new ghosts.
 
 ## Background
 This is my first ever long-term coding project, and facilitated my passion not only for coding, but also for artificial intelligence and the world of algorithmic thinking. This was built for the non-exam assessment component of my Computer Science A-level, of which I was awarded the top mark band. In order to build the algorithms from scratch in the "algs.py" file, I moved away from support online and consulted my AI textbook (Peter Norvig) which contained detailed information on how to implement all of the search algorithms.
